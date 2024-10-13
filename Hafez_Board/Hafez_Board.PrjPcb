@@ -1164,9 +1164,10 @@ UpdateToLatestRevision=1
 PartTypes=0
 
 [NetInfos]
-Net1=NetName=+5V_SW|NetColor=$00000099
-Net2=NetName=12V_IN|NetColor=$00000066
-Net3=NetName=3V3|NetColor=$006666E0
+Net1=NetName=+4V2|NetColor=$000000CC
+Net2=NetName=+5V_SW|NetColor=$00000099
+Net3=NetName=12V_IN|NetColor=$00000066
+Net4=NetName=3V3|NetColor=$006666E0
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
