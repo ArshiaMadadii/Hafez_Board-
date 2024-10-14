@@ -116,6 +116,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UCFJIXLM
 
+[Document5]
+DocumentPath=ADC.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DPJLYFNV
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1139,31 +1156,25 @@ Net2=NetName=+5V_SW|NetColor=$00000099
 Net3=NetName=12V_IN|NetColor=$00000066
 Net4=NetName=3.3V analog|NetColor=$009999EA
 Net5=NetName=3V3|NetColor=$006666E0
-<<<<<<< HEAD
-Net6=NetName=LCD_D4|NetColor=$0032C2F1
-Net7=NetName=LCD_D5|NetColor=$0032C2F1
-Net8=NetName=LCD_D6|NetColor=$0032C2F1
-Net9=NetName=LCD_D7|NetColor=$0032C2F1
-Net10=NetName=LCD_EN|NetColor=$0032C2F1
-Net11=NetName=LCD_RS|NetColor=$0032C2F1
-Net12=NetName=LCD_RW|NetColor=$0032C2F1
-Net13=NetName=Net?_2|NetColor=$0032C2F1
-=======
-Net6=NetName=CS_LoRa|NetColor=$00D8783C
-Net7=NetName=DIO0_LoRa|NetColor=$00D8783C
-Net8=NetName=LCD_D4|NetColor=$0032C2F1
-Net9=NetName=LCD_D5|NetColor=$0032C2F1
-Net10=NetName=LCD_D6|NetColor=$0032C2F1
-Net11=NetName=LCD_D7|NetColor=$0032C2F1
-Net12=NetName=LCD_EN|NetColor=$0032C2F1
-Net13=NetName=LCD_RS|NetColor=$0032C2F1
-Net14=NetName=LCD_RW|NetColor=$0032C2F1
-Net15=NetName=MISO_LoRa|NetColor=$00D8783C
-Net16=NetName=MOSI_LoRa|NetColor=$00D8783C
-Net17=NetName=Net?_2|NetColor=$0032C2F1
-Net18=NetName=RST_LoRa|NetColor=$00D8783C
-Net19=NetName=SCK_LoRa|NetColor=$00D8783C
->>>>>>> MCU
+Net6=NetName=Buzzer|NetColor=$0032C2F1
+Net7=NetName=CS_LoRa|NetColor=$00D8783C
+Net8=NetName=DIO0_LoRa|NetColor=$00D8783C
+Net9=NetName=LCD_D4|NetColor=$0032C2F1
+Net10=NetName=LCD_D5|NetColor=$0032C2F1
+Net11=NetName=LCD_D6|NetColor=$0032C2F1
+Net12=NetName=LCD_D7|NetColor=$0032C2F1
+Net13=NetName=LCD_EN|NetColor=$0032C2F1
+Net14=NetName=LCD_RS|NetColor=$0032C2F1
+Net15=NetName=LCD_RW|NetColor=$0032C2F1
+Net16=NetName=MISO_LoRa|NetColor=$00D8783C
+Net17=NetName=MOSI_LoRa|NetColor=$00D8783C
+Net18=NetName=Net?_2|NetColor=$0032C2F1
+Net19=NetName=PWM_LED1|NetColor=$000090BF
+Net20=NetName=PWM_LED2|NetColor=$000090BF
+Net21=NetName=PWM_LED3|NetColor=$000090BF
+Net22=NetName=PWM_LED4|NetColor=$000090BF
+Net23=NetName=RST_LoRa|NetColor=$00D8783C
+Net24=NetName=SCK_LoRa|NetColor=$00D8783C
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
