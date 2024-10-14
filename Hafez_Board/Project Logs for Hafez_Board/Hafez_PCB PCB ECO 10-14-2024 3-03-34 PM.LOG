@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=+VDC_IN Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Change Footprint: Footprint Not Found C1206
+Change Component Comment : Designator=C5 Old Comment=Cap 10x21 New Comment=10uF/50V
+Change component parameters: Designator = "C5" ("C5"); Footprint = "Cap electrolitic radial 10x20-5"; UniqueID = "\TEUIFVWM" ("\TEUIFVWM")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2021"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found Cap_A
+Add Component: Footprint Not Found D_SMA
+Add Component: Footprint Not Found 430X270D
+Add Component: Footprint Not Found TO263S
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found BUZZER 7.62mm DC
+Add Component: Footprint Not Found XTAL_ABS25-32.768KHZ-6-1-T
+Add Pin To Net: Unknown Pin: Pin *2-1
+Add Pin To Net: Unknown Pin: Pin *2-2
+Add Pin To Net: Unknown Pin: Pin *2-3
+Add Pin To Net: Unknown Pin: Pin *2-4
+Add Pin To Net: Unknown Pin: Pin *2-5
+Add Pin To Net: Unknown Pin: Pin *2-9
+Add Pin To Net: Unknown Pin: Pin *2-10
+Add Pin To Net: Unknown Pin: Pin *2-11
+Add Pin To Net: Unknown Pin: Pin *2-12
+Add Pin To Net: Unknown Pin: Pin *2-13
+Add Pin To Net: Unknown Pin: Pin *2-16
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=+VDC_IN Pin=C5-2
+Added Pin To Net: NetName=+VDC_IN Pin=C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin DP4-1
+Add Pin To Net: Unknown Pin: Pin DP4-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin SP1-1
+Add Pin To Net: Unknown Pin: Pin SP1-2
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-4
+Add Class Member: Failed to add class member : Component *2 LoRa Ra02
+Add Class Member: Failed to add class member : Component C6 10uF
+Add Class Member: Failed to add class member : Component D4 1n5819 SMD SS31
+Add Class Member: Failed to add class member : Component DP4 1N5819
+Add Class Member: Failed to add class member : Component IC1 MIC29302WU
+Add Class Member: Failed to add class member : Component R11 4K7
+Add Class Member: Failed to add class member : Component R12 40K2
+Add Class Member: Failed to add class member : Component R13 40K2
+Add Class Member: Failed to add class member : Component R19 47R
+Add Class Member: Failed to add class member : Component R21 10K
+Add Class Member: Failed to add class member : Component SP1
+Add Class Member: Failed to add class member : Component Y2 ABS25-32.768KHZ-T

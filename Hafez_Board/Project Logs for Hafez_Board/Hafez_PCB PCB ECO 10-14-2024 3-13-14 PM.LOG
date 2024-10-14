@@ -1,0 +1,66 @@
+Change Component Designator: OldDesignator=*1 NewDesignator=MP4462DN
+Add Component: Footprint Not Found PCBComponent_1
+Add Component: Footprint Not Found Cap_A
+Add Component: Footprint Not Found D_SMA
+Add Component: Footprint Not Found 430X270D
+Add Component: Footprint Not Found TO263S
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found BUZZER 7.62mm DC
+Add Component: Footprint Not Found XTAL_ABS25-32.768KHZ-6-1-T
+Add Pin To Net: Unknown Pin: Pin *2-1
+Add Pin To Net: Unknown Pin: Pin *2-2
+Add Pin To Net: Unknown Pin: Pin *2-3
+Add Pin To Net: Unknown Pin: Pin *2-4
+Add Pin To Net: Unknown Pin: Pin *2-5
+Add Pin To Net: Unknown Pin: Pin *2-9
+Add Pin To Net: Unknown Pin: Pin *2-10
+Add Pin To Net: Unknown Pin: Pin *2-11
+Add Pin To Net: Unknown Pin: Pin *2-12
+Add Pin To Net: Unknown Pin: Pin *2-13
+Add Pin To Net: Unknown Pin: Pin *2-16
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin DP4-1
+Add Pin To Net: Unknown Pin: Pin DP4-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin SP1-1
+Add Pin To Net: Unknown Pin: Pin SP1-2
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-4
+Change Net Name : Old Net Name=Net*1_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=Net*1_3 New Net Name=NetC3_2
+Change Net Name : Old Net Name=Net*1_4 New Net Name=NetMP4462DN_4
+Change Net Name : Old Net Name=Net*1_6 New Net Name=NetMP4462DN_6
+Change Net Name : Old Net Name=Net*1_8 New Net Name=NetC2_2
+Add Class Member: Failed to add class member : Component *2 LoRa Ra02
+Add Class Member: Failed to add class member : Component C6 10uF
+Add Class Member: Failed to add class member : Component D4 1n5819 SMD SS31
+Add Class Member: Failed to add class member : Component DP4 1N5819
+Add Class Member: Failed to add class member : Component IC1 MIC29302WU
+Add Class Member: Failed to add class member : Component R11 4K7
+Add Class Member: Failed to add class member : Component R12 40K2
+Add Class Member: Failed to add class member : Component R13 40K2
+Add Class Member: Failed to add class member : Component R19 47R
+Add Class Member: Failed to add class member : Component R21 10K
+Add Class Member: Failed to add class member : Component SP1
+Add Class Member: Failed to add class member : Component Y2 ABS25-32.768KHZ-T

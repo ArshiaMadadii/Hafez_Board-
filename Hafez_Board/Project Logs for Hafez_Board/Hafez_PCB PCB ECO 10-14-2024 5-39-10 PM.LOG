@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=SP? NewDesignator=SP1
+Add Component: Footprint Not Found 430X270D
+Added Component: Designator=LoRa(PCBComponent_1)
+Add Pin To Net: Unknown Pin: Pin DP4-1
+Add Pin To Net: Unknown Pin: Pin DP4-2
+Added Pin To Net: NetName=GND Pin=LoRa-1
+Added Pin To Net: NetName=GND Pin=LoRa-2
+Added Pin To Net: NetName=3V3 Pin=LoRa-3
+Added Pin To Net: NetName=RST_LoRa Pin=LoRa-4
+Added Pin To Net: NetName=DIO0_LoRa Pin=LoRa-5
+Added Pin To Net: NetName=GND Pin=LoRa-9
+Added Pin To Net: NetName=CS_LoRa Pin=LoRa-10
+Added Pin To Net: NetName=MOSI_LoRa Pin=LoRa-11
+Added Pin To Net: NetName=MISO_LoRa Pin=LoRa-12
+Added Pin To Net: NetName=SCK_LoRa Pin=LoRa-13
+Added Pin To Net: NetName=GND Pin=LoRa-16
+Added Class: Name=Communications_Chip
+Add Class Member: Failed to add class member : Component DP4 1N5819

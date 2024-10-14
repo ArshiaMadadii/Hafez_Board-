@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=AMS1117 NewDesignator=AMS1
+Change Component Designator: OldDesignator=LED_AMS NewDesignator=LED_AMS1
+Change Component Designator: OldDesignator=LED_MP NewDesignator=LED_MP1
+Add Component: Footprint Not Found 430X270D
+Add Component: Footprint Not Found XTAL_ABS25-32.768KHZ-6-1-T
+Add Pin To Net: Unknown Pin: Pin DP4-1
+Add Pin To Net: Unknown Pin: Pin DP4-2
+Add Pin To Net: Unknown Pin: Pin Y?-1
+Add Pin To Net: Unknown Pin: Pin Y?-4
+Add Class Member: Failed to add class member : Component DP4 1N5819
+Add Class Member: Failed to add class member : Component Y? ABS25-32.768KHZ-T

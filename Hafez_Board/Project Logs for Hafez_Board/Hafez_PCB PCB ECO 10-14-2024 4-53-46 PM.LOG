@@ -1,0 +1,37 @@
+Add Component: Footprint Not Found 430X270D
+Add Component: Footprint Not Found Model Name
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found BUZZER 7.62mm DC
+Add Component: Footprint Not Found XTAL_ABS25-32.768KHZ-6-1-T
+Added Pin To Net: NetName=GND Pin=DC Power Jack1-3
+Added Pin To Net: NetName=GND Pin=DC Power Jack1-3
+Added Pin To Net: NetName=GND Pin=DC Power Jack1-3
+Added Pin To Net: NetName=GND Pin=DC Power Jack1-3
+Added Pin To Net: NetName=GND Pin=DC Power Jack1-3
+Add Pin To Net: Unknown Pin: Pin DP4-1
+Add Pin To Net: Unknown Pin: Pin DP4-2
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-1
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-2
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-3
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-4
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-5
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-9
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-10
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-11
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-12
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-13
+Add Pin To Net: Unknown Pin: Pin LoRa Ra02-16
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin SP1-1
+Add Pin To Net: Unknown Pin: Pin SP1-2
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-4
+Add Class Member: Failed to add class member : Component DP4 1N5819
+Add Class Member: Failed to add class member : Component LoRa Ra02
+Add Class Member: Failed to add class member : Component R19 47R
+Add Class Member: Failed to add class member : Component R21 10K
+Add Class Member: Failed to add class member : Component SP1
+Add Class Member: Failed to add class member : Component Y2 ABS25-32.768KHZ-T

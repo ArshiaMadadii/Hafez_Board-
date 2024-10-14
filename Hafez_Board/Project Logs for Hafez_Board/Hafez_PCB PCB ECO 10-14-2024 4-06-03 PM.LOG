@@ -1,0 +1,85 @@
+Add Component: Footprint Not Found PCBComponent_1
+Added Component: Designator=C?(CAP1206)
+Add component (AddParameter): Name = "Data"; Value = "2017-3-10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "CAP SMD TOTAL PACKAGES"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "100nF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found 430X270D
+Added Component: Designator=DP?(430X270D)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=MIC29302WU(TO263-5)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MIC29302AWU/Microchip/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MIC29302AWU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-263-5 Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MIC29302AWU/Microchip/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found R0603
+Add Component: Footprint Not Found R0603
+Added Component: Designator=R?(RESC4817X04N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC4817X04N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC4817X04N)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Desc."; Value = "RES SMD 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found BUZZER 7.62mm DC
+Add Component: Footprint Not Found XTAL_ABS25-32.768KHZ-6-1-T
+Add Pin To Net: Unknown Pin: Pin *2-1
+Add Pin To Net: Unknown Pin: Pin *2-2
+Add Pin To Net: Unknown Pin: Pin *2-3
+Add Pin To Net: Unknown Pin: Pin *2-4
+Add Pin To Net: Unknown Pin: Pin *2-5
+Add Pin To Net: Unknown Pin: Pin *2-9
+Add Pin To Net: Unknown Pin: Pin *2-10
+Add Pin To Net: Unknown Pin: Pin *2-11
+Add Pin To Net: Unknown Pin: Pin *2-12
+Add Pin To Net: Unknown Pin: Pin *2-13
+Add Pin To Net: Unknown Pin: Pin *2-16
+Added Pin To Net: NetName=+5V_SW Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Add Pin To Net: Unknown Pin: Pin DP4-1
+Add Pin To Net: Unknown Pin: Pin DP4-2
+Added Pin To Net: NetName=+4V2 Pin=DP?-1
+Added Pin To Net: NetName=+5V_SW Pin=DP?-2
+Added Pin To Net: NetName=+5V_SW Pin=MIC29302WU-2
+Added Pin To Net: NetName=GND Pin=MIC29302WU-3
+Added Pin To Net: NetName=+4V2 Pin=MIC29302WU-4
+Added Pin To Net: NetName=GND Pin=MIC29302WU-6
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Pin To Net: NetName=+4V2 Pin=R?-2
+Added Pin To Net: NetName=+5V_SW Pin=R?-2
+Add Pin To Net: Unknown Pin: Pin SP1-1
+Add Pin To Net: Unknown Pin: Pin SP1-2
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-4
+Added Pin To Net: NetName=NetMIC29302WU_1 Pin=MIC29302WU-1
+Added Pin To Net: NetName=NetMIC29302WU_1 Pin=R?-1
+Added Net: Name=NetMIC29302WU_1
+Added Pin To Net: NetName=NetMIC29302WU_5 Pin=MIC29302WU-5
+Added Pin To Net: NetName=NetMIC29302WU_5 Pin=R?-1
+Added Pin To Net: NetName=NetMIC29302WU_5 Pin=R?-2
+Added Net: Name=NetMIC29302WU_5
+Add Class Member: Failed to add class member : Component *2 LoRa Ra02
+Added Member To Class: ClassName=Power Member=Component C? 10uF
+Add Class Member: Failed to add class member : Component DP4 1N5819
+Added Member To Class: ClassName=Power Member=Component DP? 1N5819
+Added Member To Class: ClassName=Power Member=Component MIC29302WU MIC29302AWU
+Add Class Member: Failed to add class member : Component R19 47R
+Add Class Member: Failed to add class member : Component R21 10K
+Added Member To Class: ClassName=Power Member=Component R? 4K7
+Added Member To Class: ClassName=Power Member=Component R? 100k 1%
+Added Member To Class: ClassName=Power Member=Component R? 43 1%
+Add Class Member: Failed to add class member : Component SP1
+Add Class Member: Failed to add class member : Component Y2 ABS25-32.768KHZ-T

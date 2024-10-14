@@ -1,0 +1,15 @@
+Add Component: Footprint Not Found 430X270D
+Added Component: Designator=Y(XTAL_ABS25-32.768KHZ-6-1-T)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ABS25-32.768KHZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-4 Abracon LLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ABS25-32.768KHZ/Abracon%20LLC/view-part/478888/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin DP4-1
+Add Pin To Net: Unknown Pin: Pin DP4-2
+Added Pin To Net: NetName=OSC32_OUT Pin=Y-1
+Added Pin To Net: NetName=OSC32_IN Pin=Y-4
+Add Class Member: Failed to add class member : Component DP4 1N5819
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component Y ABS25-32.768KHZ-T

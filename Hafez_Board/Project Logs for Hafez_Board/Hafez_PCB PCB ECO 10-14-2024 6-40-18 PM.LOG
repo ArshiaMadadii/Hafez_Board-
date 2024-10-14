@@ -1,0 +1,8 @@
+Added Component: Designator=DP4(430X270D)
+Add component (AddParameter): Name = "Data"; Value = "16-12-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Abbas Basereh"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part. No"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetDP4_1 Pin=DP4-1
+Added Pin To Net: NetName=+5V_SW Pin=DP4-2
+Added Member To Class: ClassName=UI Member=Component DP4 1N5819
