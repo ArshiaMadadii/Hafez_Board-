@@ -1166,15 +1166,16 @@ Net12=NetName=LCD_D7|NetColor=$0032C2F1
 Net13=NetName=LCD_EN|NetColor=$0032C2F1
 Net14=NetName=LCD_RS|NetColor=$0032C2F1
 Net15=NetName=LCD_RW|NetColor=$0032C2F1
-Net16=NetName=MISO_LoRa|NetColor=$00D8783C
-Net17=NetName=MOSI_LoRa|NetColor=$00D8783C
-Net18=NetName=Net?_2|NetColor=$0032C2F1
-Net19=NetName=PWM_LED1|NetColor=$000090BF
-Net20=NetName=PWM_LED2|NetColor=$000090BF
-Net21=NetName=PWM_LED3|NetColor=$000090BF
-Net22=NetName=PWM_LED4|NetColor=$000090BF
-Net23=NetName=RST_LoRa|NetColor=$00D8783C
-Net24=NetName=SCK_LoRa|NetColor=$00D8783C
+Net16=NetName=LM35|NetColor=$001D7638
+Net17=NetName=MISO_LoRa|NetColor=$00D8783C
+Net18=NetName=MOSI_LoRa|NetColor=$00D8783C
+Net19=NetName=Net?_2|NetColor=$0032C2F1
+Net20=NetName=PWM_LED1|NetColor=$000090BF
+Net21=NetName=PWM_LED2|NetColor=$000090BF
+Net22=NetName=PWM_LED3|NetColor=$000090BF
+Net23=NetName=PWM_LED4|NetColor=$000090BF
+Net24=NetName=RST_LoRa|NetColor=$00D8783C
+Net25=NetName=SCK_LoRa|NetColor=$00D8783C
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
