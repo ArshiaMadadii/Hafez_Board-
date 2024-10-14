@@ -1139,6 +1139,14 @@ Net2=NetName=+5V_SW|NetColor=$00000099
 Net3=NetName=12V_IN|NetColor=$00000066
 Net4=NetName=3.3V analog|NetColor=$009999EA
 Net5=NetName=3V3|NetColor=$006666E0
+Net6=NetName=LCD_D4|NetColor=$0032C2F1
+Net7=NetName=LCD_D5|NetColor=$0032C2F1
+Net8=NetName=LCD_D6|NetColor=$0032C2F1
+Net9=NetName=LCD_D7|NetColor=$0032C2F1
+Net10=NetName=LCD_EN|NetColor=$0032C2F1
+Net11=NetName=LCD_RS|NetColor=$0032C2F1
+Net12=NetName=LCD_RW|NetColor=$0032C2F1
+Net13=NetName=Net?_2|NetColor=$0032C2F1
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
