@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=2 NewDesignator=POT
+Change Component Designator: OldDesignator=LED_AMS1 NewDesignator=LED_AMS
+Change Component Designator: OldDesignator=LED_MP1 NewDesignator=LED_MP
+Added Component: Designator=S?(SW-PB)
+Added Pin To Net: NetName=NRST Pin=S?-1
+Added Pin To Net: NetName=NRST Pin=S?-1
+Added Pin To Net: NetName=GND Pin=S?-2
+Added Pin To Net: NetName=GND Pin=S?-2
+Change Net Name : Old Net Name=Net2_2 New Net Name=NetLCD_3
+Change Net Name : Old Net Name=NetLED_AMS1_2 New Net Name=NetLED_AMS_2
+Change Net Name : Old Net Name=NetLED_MP1_2 New Net Name=NetLED_MP_2
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component S? Switch PB

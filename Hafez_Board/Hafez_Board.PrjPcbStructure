@@ -1,4 +1,5 @@
-Record=TopLevelDocument|FileName=Communications_Chip.SchDoc|SheetNumber=4
-Record=NoMainPathDocument|SourceDocument=Communications_Chip.SchDoc|FileName=MCU_stm32f103c8t6.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Communications_Chip.SchDoc|FileName=Power.SchDoc|SheetNumber=2
-Record=NoMainPathDocument|SourceDocument=Communications_Chip.SchDoc|FileName=UI.SchDoc|SheetNumber=3
+Record=TopLevelDocument|FileName=ADC.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Communications_Chip.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=MCU_stm32f103c8t6.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=Power.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=ADC.SchDoc|FileName=UI.SchDoc|SheetNumber=3

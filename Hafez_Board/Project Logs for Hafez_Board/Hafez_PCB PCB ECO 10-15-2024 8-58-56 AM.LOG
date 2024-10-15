@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NRST Pin=RESET1-1
+Removed Pin From Net: NetName=NRST Pin=RESET1-1
+Removed Pin From Net: NetName=GND Pin=RESET1-2
+Removed Pin From Net: NetName=GND Pin=RESET1-2
+Added Component: Designator=RESET1(MY_SPST_2)
+Added Pin To Net: NetName=NRST Pin=RESET1-1
+Added Pin To Net: NetName=GND Pin=RESET1-2
