@@ -1,0 +1,11 @@
+Add Pin To Net: Unknown Pin: Pin MCU-13
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component C1 100nF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component C_Crystal1 18pF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component C_Crystal2 18pF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component C_Oscillator1 18pF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component C_Oscillator2 18pF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component CByPass1 100nF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component CByPass2 100nF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component CByPass3 100nF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component C VDDA1 10uF
+Added Member To Class: ClassName=MCU_stm32f103c8t6 Member=Component C VDDA2 100nF
