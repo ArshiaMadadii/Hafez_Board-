@@ -39,7 +39,7 @@ The Hafez Board is versatile and can be used for a wide range of applications, i
 ## Contact
 If you have any questions or would like to connect, feel free to reach out:
 
-📧 **Email:** [ars.madad@gmail.com](mailto:ars.madad@gmail.com)  
+📧 **Email:** [ars.madadi@gmail.com](mailto:ars.madadi@gmail.com)  
 🌐 **LinkedIn:** [Arshia Madadi](https://www.linkedin.com/in/arshiamadadi)
 
 Happy building with the Hafez Board! We hope it serves as a valuable tool on your journey of learning and innovation.
